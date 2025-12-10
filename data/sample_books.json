@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "year": 1999,
+    "isbn": "9780201616224"
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "isbn": "9780132350884"
+  },
+  {
+    "id": 3,
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "year": 2015,
+    "isbn": "9781491946008"
+  }
+]
